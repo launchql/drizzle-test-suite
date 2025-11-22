@@ -1,0 +1,37 @@
+{
+  "name": "undefined",
+  "version": "0.0.1",
+  "author": "Dan Lynch <pyramation@gmail.com>",
+  "description": "undefined",
+  "homepage": "https://github.com/undefined/undefined",
+  "license": "SEE LICENSE IN LICENSE",
+  "publishConfig": {
+    "access": "undefined",
+    "directory": "dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/undefined/undefined"
+  },
+  "bugs": {
+    "url": "https://github.com/undefined/undefined/issues"
+  },
+  "scripts": {
+    "lint": "eslint . --fix",
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "drizzle-kit": "^0.31.7",
+    "pgsql-test": "^2.13.2"
+  },
+  "pnpm": {
+    "overrides": {
+      "graphql": "14.7.0"
+    }
+  },
+  "dependencies": {
+    "drizzle-orm": "^0.44.7"
+  }
+}

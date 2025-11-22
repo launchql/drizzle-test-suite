@@ -1,0 +1,7 @@
+# drizzle extension
+comment = 'drizzle extension'
+default_version = '0.0.1'
+module_pathname = '$libdir/drizzle'
+requires = 'plpgsql,uuid-ossp'
+relocatable = false
+superuser = false
