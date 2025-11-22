@@ -26,12 +26,8 @@
     "drizzle-kit": "^0.31.7",
     "pgsql-test": "^2.13.2"
   },
-  "pnpm": {
-    "overrides": {
-      "graphql": "14.7.0"
-    }
-  },
   "dependencies": {
-    "drizzle-orm": "^0.44.7"
+    "drizzle-orm": "^0.44.7",
+    "drizzle-orm-test": "^0.2.1"
   }
 }

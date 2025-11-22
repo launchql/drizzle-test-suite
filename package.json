@@ -1,11 +1,11 @@
 {
-  "name": "undefined",
+  "name": "drizzle-demo",
   "version": "0.0.1",
-  "author": "undefined <undefined>",
+  "author": "Dan Lynch <pyramation@gmail.com>",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/undefined/undefined"
+    "url": "https://github.com/launchql/drizzle-pgsql-test"
   },
   "license": "SEE LICENSE IN LICENSE",
   "publishConfig": {

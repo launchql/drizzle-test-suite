@@ -1,3 +1,5 @@
 %syntax-version=1.0.0
 %project=drizzle
 %uri=drizzle
+
+rls_test 2025-11-22T09:21:11Z launchql <launchql@5b0c196eeb62> # add rls_test
